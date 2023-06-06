@@ -112,6 +112,4 @@
 
 5. Create new Superuser [**python manage.py createsuperuser**]
 
-**Sample Screenshot** :
-
-![](screenshot.png)
+ 
