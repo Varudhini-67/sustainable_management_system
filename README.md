@@ -54,9 +54,7 @@
 
 5. Create new Superuser [**python manage.py createsuperuser**]
 
-**Sample Screenshot** :
-
-![](screenshot.png)
+ 
 > Username : admin, Password : admin123
 
 2. User1 -> Username : buyer, Password : buyer123
